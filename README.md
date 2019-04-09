@@ -7,6 +7,8 @@ Bot Free ETH Spinner
 	pkg install php
 	git clone https://github.com/tuanmuda2019/ETHSpinner.git
 	cd ETHSpinner
+	pkg install nano
+	nano modul.php
 	php eth.php
 
 
