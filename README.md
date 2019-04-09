@@ -9,6 +9,9 @@ Bot Free ETH Spinner
 	cd ETHSpinner
 	php eth.php
 
+
+Masukkan Password : tuanmuda
+
 # Edit Modul
 	<?php
 	$email = "??????@gmail.com";
